@@ -3,7 +3,7 @@ package ru.gozhan.leetcode.easy;
 import java.util.ArrayList;
 
 /**
- * Link to task #1 <a href="https://leetcode.com/problems/palindrome-number/">...</a>
+ * Link to task #9 <a href="https://leetcode.com/problems/palindrome-number/">...</a>
  *
  */
 
