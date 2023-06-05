@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Link to task <a href="https://leetcode.com/problems/two-sum/description/">...</a>
+ * Link to task #1 <a href="https://leetcode.com/problems/two-sum/description/">...</a>
  *
  */
 
