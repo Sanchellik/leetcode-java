@@ -3,7 +3,7 @@ package ru.gozhan.leetcode.easy;
 import java.util.Stack;
 
 /**
- * Link to task #20 <a href="https://leetcode.com/problems/longest-common-prefix/">...</a>
+ * Link to task #20 <a href="https://leetcode.com/problems/valid-parentheses/">...</a>
  *
  */
 
