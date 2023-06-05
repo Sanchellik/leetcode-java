@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Link to task <a href="https://leetcode.com/problems/two-sum/description/">...</a>
+ *
+ */
+
 public class TwoSum1 {
 
     public static void main(String[] args) {
